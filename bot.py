@@ -2,7 +2,7 @@ import discord
 import random
 import time
 import urllib.request
-TOKEN = 'NDg4NzcxNDM1MjU1NDMxMTc3.DnhECg.9DXq8KoptiXqu1g1rdRMMoM59pM'
+TOKEN = #your token
 client = discord.Client()
 @client.event
 async def on_message(message):
